@@ -17,6 +17,8 @@ kanban-plugin: board
 ## PARA: Personal Website Project – Thomas Ware
 
 - [ ] Modify Website pages
+- [ ] Learn Astro
+- [ ] Add Tailwind CSS Theme Template
 
 
 ## 🔗 Project Linkage
