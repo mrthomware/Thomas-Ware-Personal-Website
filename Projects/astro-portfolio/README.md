@@ -1,9 +1,9 @@
-````markdown
+
 # 🌐 Thomas Ware – Professional Portfolio Website
 
 A modern, responsive personal website built with **Astro** and **Tailwind CSS**, designed to showcase work in **animatronics**, **automation**, **embedded systems**, and **fabrication**. The project emphasizes modular architecture, accessibility, and clean UI/UX principles suitable for a professional portfolio.
 
----
+
 
 ## 🚀 Features
 
@@ -22,11 +22,10 @@ A modern, responsive personal website built with **Astro** and **Tailwind CSS**,
 - 📄 Resume pages enhanced with download-ready work history and academic records
 - 📸 Placeholder visuals representing real-world project media
 
----
+
 
 ## 📁 Project Structure
 
-<<<<<<< HEAD
 ```mermaid
 graph TD
   A[astro-portfolio]
@@ -48,45 +47,9 @@ graph TD
   A --> D[tailwind.config.js]
   A --> E[astro.config.mjs]
   A --> F[package.json]
-=======
----
-
-astro-portfolio/
-├── public/
-│   ├── favicon.svg
-│   └── files/private\_Records/
-├── src/
-│   ├── components/
-│   ├── layouts/
-│   ├── pages/
-│   │   ├── about.astro
-│   │   ├── resume.astro
-│   │   ├── projects.astro
-│   │   ├── education-certifications.astro
-│   │   ├── experience.astro
-│   │   ├── core-skills.astro
-│   │   └── contact.astro
-├── tailwind.config.js
-├── astro.config.mjs
-└── package.json
-
----
-
-## 📦 Setup Instructions
-
-```bash
-# Install dependencies
-npm install
-
-# Run the dev server
-npm run dev
-
-# Build for production
-npm run build
->>>>>>> 01be8d6b421136199d9e9bba38e783a4abe60bcc
 ````
 
----
+
 
 ## 📦 Getting Started
 
@@ -116,7 +79,7 @@ Preview the production build:
 npm run preview
 ```
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -127,12 +90,11 @@ npm run preview
 * **Git & GitHub** – Version control & repository management
 * **Obsidian** – Content organization and project planning
 
----
+
 
 ## 📄 License
 
 © 2025 Thomas Ware. All rights reserved.
 For personal and professional use only. Redistribution or commercial deployment requires written permission.
 
-```
-```
+
