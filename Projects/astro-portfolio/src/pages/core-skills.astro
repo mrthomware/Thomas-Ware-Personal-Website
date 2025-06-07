@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Card from '../components/Card.astro';
+---
+
+<BaseLayout title="Core Skills | Thomas Ware">
+  <section class="max-w-6xl mx-auto px-6 py-16">
+    <header class="mb-12 text-center">
+      <h1 class="text-4xl font-bold mb-2">🧠 Core Professional Skill Sets</h1>
+      <p class="text-gray-500 dark:text-gray-400 max-w-2xl mx-auto">
+        A multidisciplinary toolkit spanning programming, robotics, animation, coatings, and trades — backed by applied experience and certifications.
+      </p>
+    </header>
+
+    <section class="grid gap-6 lg:grid-cols-2">
+      <Card
+        title="🖥️ Computer Programmer"
+        description="Python, Java, C++, Git, and SQL. Skilled in debugging, version control, APIs, and Agile workflows."
+        link="/files/private_Records/Computer%20Programmer.pdf"
+      />
+
+      <Card
+        title="🎨 Animator"
+        description="2D/3D animation, rigging, timing, and storytelling. Skilled with Blender, Adobe Animate, Harmony."
+        link="/files/private_Records/Animator.pdf"
+      />
+
+      <Card
+        title="🎯 Red Seal Painter"
+        description="Surface prep, airless spraying, wallpapering, and site safety. Certified Red Seal + WHMIS."
+        link="/files/private_Records/Red%20Sealed%20Painter.pdf"
+      />
+
+      <Card
+        title="🚧 Lift Operator"
+        description="Boom/scissor lift operation, hazard detection, fall protection, and regulatory compliance."
+        link="/files/private_Records/Lift%20Operator.pdf"
+      />
+
+      <Card
+        title="🪧 Sign Maker"
+        description="Vinyl graphics, layout, CNC prep, UV printing, wiring, and safety compliance in install work."
+        link="/files/private_Records/Sign%20Maker.pdf"
+      />
+
+      <Card
+        title="🔧 Appliance Repair Technician"
+        description="Diagnostics, mechanical repair, electrical troubleshooting, safety codes, and client service."
+        link="/files/private_Records/Appliance%20Repair%20Technician.pdf"
+      />
+
+      <Card
+        title="💡 Electronic Technician"
+        description="PCB assembly, component testing, soldering, calibration, and instrumentation maintenance."
+        link="/files/private_Records/Electronic%20Technician.pdf"
+      />
+
+      <Card
+        title="🤖 Automation & Robotics Tech"
+        description="PLC programming, servo systems, mechanical integration, and safety-compliant control logic."
+        link="/files/private_Records/Automation%20and%20Robotics%20Technician.pdf"
+      />
+    </section>
+  </section>
+</BaseLayout>
