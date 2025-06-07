@@ -26,6 +26,7 @@ A modern, responsive personal website built with **Astro** and **Tailwind CSS**,
 
 ## 📁 Project Structure
 
+<<<<<<< HEAD
 ```mermaid
 graph TD
   A[astro-portfolio]
@@ -47,6 +48,42 @@ graph TD
   A --> D[tailwind.config.js]
   A --> E[astro.config.mjs]
   A --> F[package.json]
+=======
+---
+
+astro-portfolio/
+├── public/
+│   ├── favicon.svg
+│   └── files/private\_Records/
+├── src/
+│   ├── components/
+│   ├── layouts/
+│   ├── pages/
+│   │   ├── about.astro
+│   │   ├── resume.astro
+│   │   ├── projects.astro
+│   │   ├── education-certifications.astro
+│   │   ├── experience.astro
+│   │   ├── core-skills.astro
+│   │   └── contact.astro
+├── tailwind.config.js
+├── astro.config.mjs
+└── package.json
+
+---
+
+## 📦 Setup Instructions
+
+```bash
+# Install dependencies
+npm install
+
+# Run the dev server
+npm run dev
+
+# Build for production
+npm run build
+>>>>>>> 01be8d6b421136199d9e9bba38e783a4abe60bcc
 ````
 
 ---
