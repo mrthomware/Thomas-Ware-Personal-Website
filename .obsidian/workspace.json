@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Projects/Personal Website Project/Personal_Website_Project_Kanban.md",
+                "file": "Areas/Web Development/Personal_Website_Project_Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": []
@@ -173,6 +173,9 @@
   },
   "active": "c13b2dc3824423cc",
   "lastOpenFiles": [
+    "Areas/Web Development/Personal_Website_Project_Kanban (1).md",
+    "Areas/Web Development/Personal_Website_Project_Kanban.md",
+    "Areas/Web Development/Unconfirmed 127458.crdownload",
     "Projects/Personal Website Project/Personal Website Project.zip",
     "Projects/Personal Website Project/node_modules.zip",
     "Thomas-Ware-Personal-Website.zip",
@@ -185,8 +188,6 @@
     "Projects/Personal Website Project/node_modules/trough/index.js",
     "Projects/Personal Website Project/node_modules/source-map-js/source-map.js",
     "Projects/Personal Website Project/node_modules/semver/functions/valid.js",
-    "Projects/Personal Website Project/node_modules/semver/functions/sort.js",
-    "Projects/Personal Website Project/node_modules/semver/functions/satisfies.js",
     "Projects/Personal Website Project/node_modules/@tailwindcss/postcss/README.md",
     "Projects/Personal Website Project/node_modules/@alloc/quick-lru/readme.md",
     "Projects/Personal Website Project/node_modules/caniuse-lite/README.md",
@@ -207,7 +208,6 @@
     "Projects/Personal Website Project/node_modules/rollup/README.md",
     "Projects/Personal Website Project/node_modules/radix3/README.md",
     "Projects/Personal Website Project/node_modules/property-information/readme.md",
-    "Projects/Personal Website Project/node_modules/postcss/README.md",
-    "Projects/Personal Website Project/node_modules/pako/README.md"
+    "Projects/Personal Website Project/node_modules/postcss/README.md"
   ]
 }
