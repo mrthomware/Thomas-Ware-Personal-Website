@@ -1,17 +1,57 @@
 ---
-import Layout from '../layouts/Layout.astro';
-
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Card from '../components/Card.astro';
 ---
 
-<Layout title="About | Thomas Ware">
-  <section class="prose dark:prose-invert max-w-3xl mx-auto">
-    <h1>About Me</h1>
-    <p>
-      I’m Thomas Ware — an animatronic designer and robotics engineer passionate about bringing mechanical characters to life.
-      I blend creative design with engineering expertise to build expressive, responsive animatronic puppets for storytelling, education, and entertainment.
+<BaseLayout title="About | Thomas Ware">
+  <section class="max-w-4xl mx-auto px-6 py-16">
+    <h1 class="text-4xl font-bold mb-8">About Me</h1>
+    <p class="mb-8 text-lg text-gray-600 dark:text-gray-300">
+      I’m a multidisciplinary builder working at the intersection of art, robotics, and interactive fabrication. This page combines my background summary with a professional resume presented in a modern visual format.
     </p>
-    <p>
-      This site showcases my projects, skills, and experiences in the world of mechatronics, design, and automation.
-    </p>
+
+    <section class="grid gap-6 lg:grid-cols-2">
+      <Card
+        title="🎯 Personal Profile"
+        description="Creative and technically skilled Animatronic Designer & Technician with hands-on experience in robotics, painting, and embedded systems. Red Seal Painter with precision detail and current student in Automation & Robotics."
+      />
+
+      <Card
+        title="🛠️ Core Skills"
+        description="3D modeling, Arduino/C++/PLC control, PCB design, servo-actuator integration, and aesthetic finish work."
+      />
+    
+      <Card
+        title="📚 Education & Certifications"
+        description="Automation & Robotics (In Progress), Electronics Technician (GPA 4.06), Red Seal Painter, Appliance Repair."
+        link="/Education-Certifications"
+      />
+
+      <Card
+        title="🧪 Projects"
+        description="3D Printer Automation (PLC + robotic arm) and 8-bit PCB Modular Computer with logic gate systems."
+        link="/projects"
+      />
+
+      <Card
+        title="🧰 Tools & Software"
+        description="CAD, 3D Studio Max, Arduino, Raspberry Pi, Teensy, C++, Python, DMX lighting control."
+      />
+
+      <Card
+        title="💼 Work Experience"
+        description="Freelance Painter & Decorator with 20+ years in color matching, sign creation, airbrushing, and confined space work."
+      />
+
+      <Card
+        title="🏆 Awards & Affiliations"
+        description="Dean’s List, Red Seal Certification, Member of Robotics Makers Network and OSBF contributor."
+      />
+
+      <Card
+        title="🔄 Continuous Learning"
+        description="Exploring servo puppetry, DMX show control, AI control rigs, and participating in MakerSpaces and robotics labs."
+      />
+    </section>
   </section>
-</Layout>
+</BaseLayout>

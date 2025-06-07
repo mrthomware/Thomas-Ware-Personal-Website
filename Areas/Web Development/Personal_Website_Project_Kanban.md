@@ -43,7 +43,7 @@ kanban-plugin: basic
 
 ## ✅ Done
 - [x] Defined project structure and component layout strategy
-- [x] Created BaseLayout.astro and set up global styles
+- [x] Created BaseBaseLayout.astro and set up global styles
 - [x] Added Button.astro and Card.astro reusable components
 - [x] Integrated title prop into layout and pages
 - [x] Added testimonials section to index.astro

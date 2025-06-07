@@ -173,21 +173,22 @@
   },
   "active": "c13b2dc3824423cc",
   "lastOpenFiles": [
+    "Projects/astro-portfolio/src/components/EducationCard.astro",
+    "Projects/astro-portfolio/src/pages/Education-Certifications.astro",
+    "Projects/astro-portfolio/src/layouts/BaseLayout.astro",
+    "Thomas-Ware-Personal-Website.zip",
+    "Resources.zip",
     "Areas/Web Development/Personal_Website_Project_Kanban (1).md",
     "Areas/Web Development/Personal_Website_Project_Kanban.md",
     "Areas/Web Development/Unconfirmed 127458.crdownload",
     "Projects/Personal Website Project/Personal Website Project.zip",
     "Projects/Personal Website Project/node_modules.zip",
-    "Thomas-Ware-Personal-Website.zip",
     "Archives.zip",
     "Projects/Personal Website Project/node_modules/fdir/README.md",
     "Projects/Personal Website Project/node_modules/dset/readme.md",
     "Projects/Personal Website Project/node_modules/css-tree/README.md",
     "Projects/Personal Website Project/node_modules/vite/dist/node/module-runner.js",
     "Projects/Personal Website Project/node_modules/unicode-trie/swap.js",
-    "Projects/Personal Website Project/node_modules/trough/index.js",
-    "Projects/Personal Website Project/node_modules/source-map-js/source-map.js",
-    "Projects/Personal Website Project/node_modules/semver/functions/valid.js",
     "Projects/Personal Website Project/node_modules/@tailwindcss/postcss/README.md",
     "Projects/Personal Website Project/node_modules/@alloc/quick-lru/readme.md",
     "Projects/Personal Website Project/node_modules/caniuse-lite/README.md",
@@ -207,7 +208,6 @@
     "Projects/Personal Website Project/node_modules/rollup/node_modules/@types/estree/README.md",
     "Projects/Personal Website Project/node_modules/rollup/README.md",
     "Projects/Personal Website Project/node_modules/radix3/README.md",
-    "Projects/Personal Website Project/node_modules/property-information/readme.md",
-    "Projects/Personal Website Project/node_modules/postcss/README.md"
+    "Projects/Personal Website Project/node_modules/property-information/readme.md"
   ]
 }
