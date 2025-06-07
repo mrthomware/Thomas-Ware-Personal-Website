@@ -22,7 +22,7 @@ A modern, responsive portfolio built using **Astro**, **Tailwind CSS**, and a mo
 
 ## 📁 Project Structure
 
-
+---
 
 astro-portfolio/
 ├── public/
@@ -43,7 +43,7 @@ astro-portfolio/
 ├── astro.config.mjs
 └── package.json
 
-
+---
 
 ## 📦 Setup Instructions
 
